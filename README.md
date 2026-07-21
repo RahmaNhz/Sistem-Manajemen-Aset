@@ -201,7 +201,7 @@ Website ini dikembangkan untuk:
 ## 🔧 Damage Report
 
 <p align="center">
-<img src="screenshots/pengaduan.png" width="90%">
+<img src="screenshots/Pengaduan.png" width="90%">
 </p>
 
 
