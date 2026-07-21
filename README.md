@@ -5,7 +5,7 @@
 ### Asset Management Information System
 
 <p align="center">
-  <img src="screenshots/banner.png" width="100%">
+  <img src="screenshots/login.png" width="100%">
 </p>
 
 ![Laravel](https://img.shields.io/badge/Laravel-10-red?style=for-the-badge&logo=laravel)
@@ -204,15 +204,6 @@ Website ini dikembangkan untuk:
 <img src="screenshots/pengaduan.png" width="90%">
 </p>
 
----
-
-## 📊 Reports
-
-<p align="center">
-<img src="screenshots/laporan.png" width="90%">
-</p>
-
----
 
 # 🛠️ Tech Stack
 
